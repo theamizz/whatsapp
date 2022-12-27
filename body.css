@@ -1,0 +1,227 @@
+ body{
+    margin: 0;
+    overflow-x:hidden ;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    columns: #1c1e21;;
+}
+.firsttext{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: inline-block;
+    width: 400px;
+    margin-top: 190px;
+    margin-left: 300px;
+}
+
+.text1{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+.text2{
+    font-family: Roboto;
+    font-size: 18px;
+    margin-bottom: 25px;
+    
+}
+.text3{
+    font-family: Roboto;
+    font-size: 16px;
+    margin-bottom: 50px;
+    color:gray;
+}
+.os{
+    margin-left:  250px;
+    width: 400px;
+    line-height:10px;
+    
+    }
+.os1{
+    
+    width: 400px;
+    height: 25px;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    font-family: Roboto;
+    color:#128c7e;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 25px;
+    cursor: pointer;
+    }
+.phonepic{
+    margin-left: 100px;
+display: inline-block;
+width: 200px;
+margin-top: 150px;
+
+}
+.phonepic1{
+    width: 300px;
+    display: inline-block;
+    margin-bottom: 50px;
+
+}
+.main2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: #1c1e21;;
+}
+
+.secondtext{
+    
+    justify-content: center;
+    text-align: center;
+    font-family: Roboto;
+    background-color: #D8E8EA;
+    padding-top: 80px;
+    margin-right: 20px;
+}
+.t1{
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.t2{
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    padding-bottom: 16px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.phonepic2{
+    width: 350px;
+    padding-top: 30px;
+}
+.thirdtext{
+    background-color: #E7F0E4;
+    margin-left: 20px;
+    text-align: center;
+    font-family: Roboto;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.circle{
+  
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #77d7c8;
+    margin-left: 20%;
+    margin-top: 80px;
+    position: relative;
+    margin-bottom: 40px;
+    
+}
+.hello{
+    width: 220px;
+    color:rgba(52, 68, 76);
+    font-family: Roboto;
+    position: absolute;
+    display:flex;
+    margin-left: 71px;
+    margin-top: 138px;
+
+
+}
+.d1{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+.d2{
+    font-size: 40px;
+    line-height: 10px;
+    font-weight: 700;
+}
+.d3{
+    font-size: 18px;
+    line-height: 26px;
+
+}
+.explore{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-style: solid;
+    margin-left: 43%;
+    margin-top:60px;
+    border-width: 2px;
+    border-radius: 24px;
+    font-weight: 500;
+    border-width: 2px;
+    border-color:#77d7c8;  
+    color:#128c7e;    
+    background-color: white;
+    margin-bottom: 70px;
+    cursor: pointer;
+    
+}
+.About{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    width: 100%;
+    height: 350px;
+    background-color:#2b3544;
+    margin-top: 40px;
+    padding-left: 200px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    margin-left: 0;
+}.head5{
+    padding-top: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 32px;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .subhead{
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    padding-left: 25px;
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+
+ }
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    padding-top: 16px;
+    line-height: 26px;
+ }
+ 
+.LLC{
+    padding-left: 220px;
+}
+.privacy{
+    padding-right: 230px;
+    cursor: pointer;
+}
+
+
+

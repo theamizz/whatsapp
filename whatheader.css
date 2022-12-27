@@ -1,0 +1,58 @@
+.header{
+   
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background-color:#128c7e;
+    font-family: Roboto;
+    z-index: 100;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    padding-top: 22px;
+    }
+.icon1{
+    height: 40px;
+    width: 40x;
+    margin-left:-30px;
+    cursor: pointer;
+}
+.head{
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-right: 100px;
+    margin-left: -33px;
+    cursor: pointer;
+    margin-bottom:  30px;
+    
+}
+.head1{
+    margin-top: 32px;
+    padding-right: 15px;
+    margin-right: 40px;
+    margin-left: 20p;
+    justify-content: center;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 30px;
+    cursor: pointer;
+    
+}
+.golbe{
+    width: 16px;
+    height: 16px;
+    color: white;
+    padding-top: 34px;
+   
+
+}
